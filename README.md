@@ -1,4 +1,4 @@
-# assign_grade-score-
+# assign_grade(score)
 HOW TO MAKE ASSIGN_GRADE(SCORE) USING PYDROID 3.
 
 VIDEO OF MAKING ASSIGN_GRADE(SCORE): https://youtu.be/RXZYnoqw-CI
